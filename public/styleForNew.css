@@ -1,0 +1,52 @@
+.Quora{
+    margin-top: 0px;
+    color: brown;
+}
+h1{
+    margin-left: 20px;
+    margin-top: 10px;
+}
+form{
+    height: 500px;
+    display: inline-block;
+    margin-left: 20px;
+}
+p{
+    margin-top: 10px;
+}
+.define{
+    font-size: 1.5rem;
+    display: inline;
+    margin-top: 10px;
+}
+
+input{
+    display: block;
+    height: 30px;
+    width: 400px;
+    margin-bottom: 15px;
+    margin-top: 10px;
+}
+textarea{
+    height: 100px;
+    display: block;
+    width: 500px;
+    margin-top: 10px;
+}
+.btn-primary{
+    margin-top: 20px;
+    background-color: rgb(165, 42, 42);
+    color: aliceblue;
+    border-color: rgba(0, 0, 0, 0.901);
+    border-width: 2px;
+}
+.btn-primary:hover{
+    background-color: rgba(0, 0, 0, 0.901);
+    border-color: brown;
+    border-width: 2px;
+
+}
+textarea:placeholder-shown{
+    padding-left: 4px;
+    
+}

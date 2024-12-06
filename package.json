@@ -1,0 +1,16 @@
+{
+  "name": "quora-backend-practice",
+  "version": "1.0.0",
+  "description": "This is another practice session incorporating the concept of RESTful APIs.  The backend of Quora is dynamic making the project challenging and fun, not a lot of focus is given styling-wise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "masamasaowl",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.1"
+  }
+}
