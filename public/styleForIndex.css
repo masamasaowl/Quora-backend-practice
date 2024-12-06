@@ -4,7 +4,7 @@
 .navbar{
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: start;
     background-color: burlywood;
     height: 70px;
     width: 100%;
@@ -16,6 +16,24 @@ h1{
     color: brown;
     display: inline;
 }
+.createBtn{
+    margin-left: 50px;
+    border-bottom-width: 2px;
+    border-color: #212529;
+}
+.createBtn a{
+    text-decoration: none;
+    color: #212529;
+    font-family: system-ui, "Segoe UI",;
+    font-weight: 500;
+    font-size: 1.9rem;
+}
+.createBtn a:hover{
+    color: brown;
+}
+
+
+
 .container{
     display: flex;
     justify-content: center;

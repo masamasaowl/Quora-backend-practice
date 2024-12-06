@@ -1,0 +1,25 @@
+h1{
+    padding-left: 22px;
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
+.post{
+    background-color: cornsilk;
+    height: 200px;
+    width: 400px;
+    border-radius: 20px;
+    padding-top: 0.1rem;
+    margin-top: 20px;
+    
+}
+.user{
+    text-align: center;
+    color: brown
+    
+}
+.content{
+    padding-left:1rem;
+    padding-top: 10px;
+}
