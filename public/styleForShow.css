@@ -23,3 +23,11 @@ h1{
     padding-left:1rem;
     padding-top: 10px;
 }
+.id{
+    color: #212529;
+    font-family: system-ui, "Segoe UI",;
+    font-weight: 500;
+    font-size: 1rem;
+    margin-left: 23px;
+    margin-top: 6px;
+}

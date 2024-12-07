@@ -33,6 +33,7 @@ textarea{
     width: 500px;
     margin-top: 10px;
 }
+
 .btn-primary{
     margin-top: 20px;
     background-color: rgb(165, 42, 42);
@@ -44,9 +45,16 @@ textarea{
     background-color: rgba(0, 0, 0, 0.901);
     border-color: brown;
     border-width: 2px;
-
 }
+
 textarea:placeholder-shown{
     padding-left: 4px;
-    
+}
+.id{
+    color: #212529;
+    font-family: system-ui, "Segoe UI",;
+    font-weight: 500;
+    font-size: 1rem;
+    margin-left: 23px;
+    margin-top: 6px;
 }

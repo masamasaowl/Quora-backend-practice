@@ -31,6 +31,33 @@ h1{
 .createBtn a:hover{
     color: brown;
 }
+.createBtn a i{
+    font-size: 1.5rem;
+}
+.btn{
+    text-decoration: none;
+    text-decoration: underline;
+    color: #212529;
+    font-family: system-ui, "Segoe UI",;
+    font-weight: 500;
+    font-size: 1.25rem;
+    position: relative;
+    top: 70px;
+}
+.btn:hover{
+    color: brown;
+}
+.editBtn{
+    right: 1rem;
+}
+.deleteBtn{
+    right: 2rem;
+}
+.deleteForm{
+    display: inline;
+}
+
+
 
 
 
